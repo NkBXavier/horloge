@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/horloge.git/static/css/main.044744d0.css",
+    "main.js": "/horloge.git/static/js/main.3652de0c.js",
+    "static/js/453.cc14a31d.chunk.js": "/horloge.git/static/js/453.cc14a31d.chunk.js",
+    "index.html": "/horloge.git/index.html",
+    "main.044744d0.css.map": "/horloge.git/static/css/main.044744d0.css.map",
+    "main.3652de0c.js.map": "/horloge.git/static/js/main.3652de0c.js.map",
+    "453.cc14a31d.chunk.js.map": "/horloge.git/static/js/453.cc14a31d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.044744d0.css",
+    "static/js/main.3652de0c.js"
+  ]
+}
